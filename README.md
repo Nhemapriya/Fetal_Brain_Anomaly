@@ -1,4 +1,4 @@
-# Fetal_Brain_Anomaly
+# Fetal Brain Anomaly Classification
 
 ## classifying fetal brain abnormalities 
 
